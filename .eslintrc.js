@@ -23,5 +23,6 @@ module.exports = {
     'no-unused-vars': 0,
     'react/state-in-constructor': 0,
     'react/no-unused-state': 'off',
+    'react/forbid-prop-types': 0,
   },
 };
